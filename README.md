@@ -1,5 +1,19 @@
 # The RSpec Book examples
 
+## 基本概念
+
+**BDD** - Behaviour-Driven Development 行为驱动开发
+
+**TDD** - Test-Driven Development 测试驱动开发
+
+rspec **it()** - 创建一个行为的例子，声明一个示例（declare an example)
+
+rspec **describe()** - 声明一个示例组（declare an example group)
+
+**Cucumber** - 描述应用的行为
+
+**RSpec** - 描述对象的行为
+
 ## Install
 
 ```
@@ -7,7 +21,6 @@ $ gem install rspec
 Successfully installed rspec-3.5.0
 1 gem installed
 ```
-
 
 ```
 $ gem install cucumber
